@@ -1,1 +1,1 @@
-reverse
+reverse_each_word
